@@ -1,0 +1,25 @@
+{
+  "name": "roblox-game-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node installer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJakey/roblox-game-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJakey/roblox-game-stats/issues"
+  },
+  "homepage": "https://github.com/DevJakey/roblox-game-stats#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "inquirer": "^9.2.7",
+    "node-fetch": "^3.3.1"
+  }
+}
