@@ -1,3 +1,4 @@
+import json from 'json';
 import config from './config.json';
 import discord from 'discord.js';
 import fetch from 'node-fetch';
