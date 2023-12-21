@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "setup": "node installer.js"
+    "setup": "node installer.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
