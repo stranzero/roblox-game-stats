@@ -1,5 +1,5 @@
 import json from 'json';
-import config from './config.json';
+import config from './config.json' assert { type: "json" };
 import discord from 'discord.js';
 import fetch from 'node-fetch';
 
